@@ -1,0 +1,10 @@
+{
+  "data_dir": "data/commonvoice_ko",
+  "train_list": "data/commonvoice_ko/train_list.txt",
+  "val_list": "data/commonvoice_ko/val_list.txt",
+  "test_list": "data/commonvoice_ko/test_list.txt",
+  "num_speakers": 0,
+  "total_samples": 0,
+  "language": "Korean",
+  "dataset": "CommonVoice 22.0"
+}
